@@ -13,6 +13,7 @@ import numpy as np
 import matplotlib as plt
 
 
+
 data =np.array([[56,45,68,77]]).T
 
 x = data[:,0]
